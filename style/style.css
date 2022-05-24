@@ -85,16 +85,13 @@ h1{
     .square{
         width: 8rem;
         height: 8rem;
-        background-color: beige;
-        border: 1px solid gray;
-        display: inline-block;
     }
     .o:after{
-        font-size: 50px;
+        font-size: 40px;
         line-height: 80px;
     }
     .x:after{
-        font-size: 50px;
+        font-size: 40px;
         line-height: 80px;
     }
 }
